@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://isaiasjosue548.github.io/Jump2Digital",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
