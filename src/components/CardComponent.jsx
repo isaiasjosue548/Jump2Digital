@@ -3,11 +3,11 @@ import styled from 'styled-components';
 import Swal from 'sweetalert2';
 import withReactContent from 'sweetalert2-react-content'
 {/*images*/}
-import image1 from '../../public/assets/image1.png';
-import image2 from '../../public/assets/image2.png';
-import image3 from '../../public/assets/image3.png';
-import VectorBlack from '../../public/assets/VectorBlack.svg';
-import ProVector from '../../public/assets/ProVector.svg';
+import image1 from '../assets/image1.png';
+import image2 from '../assets/image2.png';
+import image3 from '../assets/image3.png';
+import VectorBlack from '../assets/VectorBlack.svg';
+import ProVector from '../assets/ProVector.svg';
 
 
 const MySwal = withReactContent(Swal);
