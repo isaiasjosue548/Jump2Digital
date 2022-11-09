@@ -18,7 +18,7 @@ https://jump2digital.netlify.app/
 * Animate.css
 * SweetAlert2
 
-Proyecto construido en React con Styled-Components escogi estas tecnologias
+Proyecto construido en React con Styled-Components seleccione estas tecnologias
 debido a la flexibilidad de hacer la reutilizacion de estilos y tratando de evitar
 la creacion de codigo innecesario o repetitivo. 
 
